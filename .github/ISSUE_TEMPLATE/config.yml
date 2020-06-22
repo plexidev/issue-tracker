@@ -6,4 +6,6 @@ contact_links:
   - name: Server Captcha Bot
     url: https://top.gg/bot/captcha
     about: Learn more about & invite Server Captcha Bot for Discord.
-    
+  - name: Source Code Website Features/Bugs
+    url: https://github.com/TrueXPixels/sourcecode-public/issues/new/choose
+    about: Suggest features or create bug reports for the upcoming Source Code Website.
