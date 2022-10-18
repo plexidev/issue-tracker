@@ -1,5 +1,10 @@
 # Plexi Development
 
+> This repository is now archived, please direct all issues to one of the following channels:
+> - Discord Server (https://discord.gg/plexidev)
+> - Twitter (https://twitter.com/plexidev)
+> - Website (https://plexidev.org)
+
 Public issue tracker &amp; project manager for Plexi Development.
 
 ---
